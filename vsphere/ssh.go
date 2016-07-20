@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-  "github.com/golang/crypto/ssh"
+  "golang.org/x/crypto/ssh"
 	"github.com/mitchellh/multistep"
 )
 
