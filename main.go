@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/justinclayton/packer-builder-vsphere/vsphere"
+	"github.com/roylarsen/packer-builder-vsphere/vsphere"
 	"github.com/mitchellh/packer/packer/plugin"
 	"os"
 )
